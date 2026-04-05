@@ -1,6 +1,6 @@
 # Mockbit — AI-Powered Technical Interview Prep
 
-> Practice the way top companies actually interview. Get a hiring verdict, not just a score.
+> Practice the way top companies interview. Get a hiring verdict, not just a score.
 
 **[mockbit.io](https://mockbit.io)** · Free to start · No account required
 
