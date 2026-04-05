@@ -7,9 +7,7 @@
 ---
 
 ## What is Mockbit?
-
-Mockbit is an AI interview prep platform for software engineers and ML engineers targeting FAANG and top-tier tech companies. Every session ends with a real hiring verdict —> Strong Hire, Hire, Leaning No, or No Hire — with specific feedback on what you got wrong.
-
+Mockbit is a technical interview prep platform for software engineers and ML engineers targeting FAANG and top-tier companies. Every session ends with a hiring verdict —> Strong Hire, Hire, Leaning No, or No Hire — with specific feedback on what you got wrong.
 Built for engineers who want to know exactly where they stand before walking into an interview.
 
 ---
