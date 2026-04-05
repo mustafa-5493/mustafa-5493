@@ -1,4 +1,4 @@
-# Mockbit — AI-Powered Technical Interview Prep
+# Mockbit — Technical Interview Prep for Software and ML Engineers
 
 > Practice the way top companies interview. Get a hiring verdict, not just a score.
 
