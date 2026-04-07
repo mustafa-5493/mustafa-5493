@@ -45,10 +45,6 @@ Paste a project or bullet point from your resume. Get grilled on it the way a FA
 
 ---
 
-## Stack
-Next.js 15 · TypeScript · Supabase · Anthropic Claude API · Glot.io · Lemon Squeezy · Vercel
-
----
 
 ## Question Bank
 
