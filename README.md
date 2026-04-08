@@ -21,7 +21,7 @@ Built for engineers who want to know exactly where they stand before walking int
 Implement ML components from scratch —> softmax, K-means, gradient descent, pairwise distances, one-hot encoding. Graded against 15 adversarially-tested hidden cases. No loops allowed.
 
 ### 🔭 ML Concepts
-Explain backpropagation, attention mechanisms, regularization, calibration, and 27 other topics. Evaluated by Claude against a senior engineer rubric. Follow-up questions probe deeper.
+Explain backpropagation, attention mechanisms, regularization, calibration, and 27 other topics. Evaluated against a senior engineer rubric. Follow-up questions probe deeper.
 
 ### 🩺 Diagnostic Scenarios
 Production ML failure cases. Silent model degradation, training-serving skew, metric anomalies, fairness violations. Scored on whether you diagnosed before prescribing —> the single most important ML engineering signal.
